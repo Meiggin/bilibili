@@ -1,0 +1,85 @@
+{
+    "code": 0,
+    "data": {
+        "note": "统计所有投稿在 2017年11月11日 - 2017年11月14日 的数据综合得分，每日更新一次",
+        "list": [
+            {
+                "aid": "16193902",
+                "author": "惜缘、过去",
+                "coins": 52669,
+                "duration": "4:52",
+                "mid": 159122,
+                "pic": "http://i2.hdslb.com/bfs/archive/dcb3991000e73461b1a8537c545c0d8afd3a9930.jpg",
+                "play": 336635,
+                "pts": 971509,
+                "title": "【马云】浮夸",
+                "trend": null,
+                "video_review": 4324,
+                "others": [
+                    {
+                        "aid": 14275641,
+                        "play": 1129666,
+                        "video_review": 10602,
+                        "coins": 129888,
+                        "pts": 278722,
+                        "title": "【全明星】Gee-鬼畜时代",
+                        "pic": "http://i0.hdslb.com/bfs/archive/eaab3ce936652b3c1e276a0720da8db715ac0542.jpg",
+                        "duration": "3:55"
+                    },
+                    {
+                        "aid": 14996627,
+                        "play": 734922,
+                        "video_review": 9482,
+                        "coins": 74456,
+                        "pts": 192824,
+                        "title": "【全明星】江南",
+                        "pic": "http://i2.hdslb.com/bfs/archive/8a09b941fbefdbd8a6efbedc765b2241e5f06131.jpg",
+                        "duration": "4:14"
+                    }
+                ]
+            },
+            {
+                "aid": "16255654",
+                "author": "瓶子君152",
+                "coins": 18893,
+                "duration": "8:26",
+                "mid": 730732,
+                "pic": "http://i0.hdslb.com/bfs/archive/e696d0ad1846db1e5f9e9f5c41ba1d2cbeac2ac8.jpg",
+                "play": 406707,
+                "pts": 785939,
+                "title": "【诚实吐槽S7】无敌的大魔王终于被队友击毙了",
+                "trend": null,
+                "video_review": 2311
+            },
+            {
+                "aid": "16172275",
+                "author": "小可儿",
+                "coins": 21668,
+                "duration": "4:12",
+                "mid": 185546,
+                "pic": "http://i2.hdslb.com/bfs/archive/d543e35a7105dc4864d016a9b785e0b84e382217.jpg",
+                "play": 440749,
+                "pts": 749893,
+                "title": "【马云】剁手镇",
+                "trend": null,
+                "video_review": 2110
+            },
+            {
+                "aid": "16218215",
+                "author": "非桥段",
+                "coins": 29614,
+                "duration": "5:51",
+                "mid": 2735222,
+                "pic": "http://i2.hdslb.com/bfs/archive/cd3ada2d8e8c4767625513fb9a72c1f326de5121.jpg",
+                "play": 330190,
+                "pts": 707774,
+                "title": "【诸葛亮】我的一个皇叔朋友",
+                "trend": null,
+                "video_review": 4118
+            }
+
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

@@ -1,0 +1,35 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 95
+        },
+        "archives": [
+            {
+                "pic": "https://i0.hdslb.com/bfs/archive/80a84600cde49e2bd069596c28fcf2627ae61981.jpg@750w_235h.webp",
+                "stat": {}
+            },
+            {
+                "pic": "https://i0.hdslb.com/bfs/archive/568f93fb53557648b08135abb73e1be0e2f9baf0.jpg@750w_235h.webp",
+                "stat": {}
+            },
+            {
+                "pic": "https://i0.hdslb.com/bfs/archive/0e891857c2bc7ad1b12a86a63f595d908db90a0d.jpg@750w_235h.webp",
+                "stat": {}
+            },
+            {
+                "pic": "https://i0.hdslb.com/bfs/archive/cf836a5cc74ed35d293abd9026edcef9d25c6338.jpg@750w_235h.webp",
+                "stat": {}
+            },
+            {
+                "pic": "https://i0.hdslb.com/bfs/archive/163ea90d30ab33b31c5d0f98218a0cd7f1160ab3.jpg@750w_235h.webp",
+                "stat": {
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

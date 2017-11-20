@@ -1,0 +1,183 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 66
+        },
+        "archives": [
+            {
+                "aid": 12012839,
+                "videos": 1,
+                "tid": 168,
+                "tname": "国产原创相关",
+                "copyright": 1,
+                "pic": "http://i0.hdslb.com/bfs/archive/ca9e921a995f35020c70e39706ff90d94f518828.jpg",
+                "title": "【凹凸世界手书】深/夜/诗/人【安雷】",
+                "pubdate": 1499522562,
+                "ctime": 1499522562,
+                "desc": "自制\n使用曲：深夜诗人\n词曲：ilem（av7400996）\n歌：洛天依 言和\n\n这次试着用了中文V曲，是非常喜欢这首了，而且想画一画夜空下的安雷……\n这次总结起来真的是……画到吐……能力有限，感觉效果也不是很理想（）",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 203,
+                "mission_id": 10077,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 220505,
+                    "name": "DDDDoran",
+                    "face": "http://i0.hdslb.com/bfs/face/7ed2db436fd71c9e8a4ce1ae1dd20f99b6dec744.jpg"
+                },
+                "stat": {
+                    "aid": 12012839,
+                    "view": 261947,
+                    "danmaku": 6187,
+                    "reply": 3006,
+                    "favorite": 29256,
+                    "coin": 14855,
+                    "share": 4922,
+                    "now_rank": 0,
+                    "his_rank": 25,
+                    "like": 965
+                }
+            },
+            {
+                "aid": 6378391,
+                "videos": 2,
+                "tid": 168,
+                "tname": "国产原创相关",
+                "copyright": 1,
+                "pic": "http://i1.hdslb.com/bfs/archive/f533d15ef624e9322e65f584b20e643fe36ec527.jpg",
+                "title": "【现代耽美广播剧】公子欠抽原著 《谁说CV不能拐》",
+                "pubdate": 1474560038,
+                "ctime": 1497437202,
+                "desc": "这是一个天然呆小粉丝与他的cv大大的故事 \n这是一个陌上花开缓缓爱恋的故事 \n这是一个等待与守候的故事 \nhe是必须的=v=。\n上期转载地址：http://bbs.jjwxc.net/showmsg.php?board=52&amp;id=50357\n发剧时间：2012-04-01 \n中期转载地址：http://bbs.jjwxc.net/showmsg.php?board=52&amp;id=60444\n发剧时间：2013-08-13 \n侵删\n",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 4733,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 43553550,
+                    "name": "春家喵喵找资源",
+                    "face": "http://i2.hdslb.com/bfs/face/eb931c0bc8ce803827b50d4868aac3f60fd53ddb.jpg"
+                },
+                "stat": {
+                    "aid": 6378391,
+                    "view": 34054,
+                    "danmaku": 2132,
+                    "reply": 174,
+                    "favorite": 3141,
+                    "coin": 163,
+                    "share": 40,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 33
+                }
+            },
+            {
+                "aid": 11456685,
+                "videos": 1,
+                "tid": 168,
+                "tname": "国产原创相关",
+                "copyright": 1,
+                "pic": "http://i1.hdslb.com/bfs/archive/3c619d68645700ac4f0bb336ae6432e911df6819.jpg",
+                "title": "【全职高手黄少天】【黄少の可爱颂】我的剑圣不可能",
+                "pubdate": 1497869829,
+                "ctime": 1497869829,
+                "desc": "当初看完11集之后剪的 \n黄少天真的像小甜饼一样 当时一直在心里默念：我的剑圣不可能这么可爱！\n\n封面cr.菌菌菌菌子\nhttp://enjuly.lofter.com/post/44c7bd_7e97e80",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 48,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 130899530,
+                    "name": "JoyLucifer",
+                    "face": "http://i1.hdslb.com/bfs/face/e854e008ba83e1024b479afa2b02b1f2d0f0d33a.jpg"
+                },
+                "stat": {
+                    "aid": 11456685,
+                    "view": 33253,
+                    "danmaku": 118,
+                    "reply": 137,
+                    "favorite": 1725,
+                    "coin": 167,
+                    "share": 159,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 14
+                }
+            },
+            {
+                "aid": 15994432,
+                "videos": 1,
+                "tid": 168,
+                "tname": "国产原创相关",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/9b7adeebc6b6bbde1a9e67ae841695b73e3c6154.jpg",
+                "title": "一人之下2《幺妹儿冯宝宝》",
+                "pubdate": 1509736855,
+                "ctime": 1509736855,
+                "desc": "宝儿姐就着海椒来直播埋人啦，还愣着干嘛，快双击666，火箭快艇刷起来啊！\n也总保重！",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 94,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 78751982,
+                    "name": "慢慢的十月",
+                    "face": "http://i0.hdslb.com/bfs/face/1401ed957e79df05e9f7b6e1d2cb6d1ae6f0ba5b.jpg"
+                },
+                "stat": {
+                    "aid": 15994432,
+                    "view": 89920,
+                    "danmaku": 396,
+                    "reply": 369,
+                    "favorite": 1376,
+                    "coin": 687,
+                    "share": 1018,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 321
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

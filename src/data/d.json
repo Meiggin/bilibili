@@ -1,0 +1,182 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 78
+        },
+        "archives": [
+            {
+                "aid": 12092863,
+                "videos": 1,
+                "tid": 20,
+                "tname": "宅舞",
+                "copyright": 1,
+                "pic": "http://i0.hdslb.com/bfs/archive/abb2166a4134e93786e68918c14547d3226cf9d2.jpg",
+                "title": "【小仙若】Sweet Devil【可爱性感？生日】",
+                "pubdate": 1499789431,
+                "ctime": 1499752576,
+                "desc": "又是一年15岁~！\n音源本家：sm9711503  振付本家：sm12577541\n摄影：阿皓 后期：一只小亨利",
+                "state": 0,
+                "attribute": 49280,
+                "tags": null,
+                "duration": 166,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 1
+                },
+                "owner": {
+                    "mid": 16539048,
+                    "name": "一只小仙若",
+                    "face": "http://i0.hdslb.com/bfs/face/252ed03efcfeab37deb412f5e6dd95ca0c3a2123.jpg"
+                },
+                "stat": {
+                    "aid": 12092863,
+                    "view": 585106,
+                    "danmaku": 1373,
+                    "reply": 1038,
+                    "favorite": 15845,
+                    "coin": 6226,
+                    "share": 726,
+                    "now_rank": 0,
+                    "his_rank": 9,
+                    "like": 90
+                }
+            },
+            {
+                "aid": 15615766,
+                "videos": 1,
+                "tid": 154,
+                "tname": "三次元舞蹈",
+                "copyright": 2,
+                "pic": "http://i0.hdslb.com/bfs/archive/e7cfd9e79676e609d6648c0bb5feb1d740fbe91c.jpg",
+                "title": "【WAVEYA】完美身材MiU超撩高跟翻跳HyunA新歌（DANCE COVER）",
+                "pubdate": 1508637453,
+                "ctime": 1508637454,
+                "desc": "https://youtu.be/pnOzqLzkeUg\n舞者: WAVEYA MiU \n歌曲名: BABE\n歌曲出处: HyunA\n简介: 1",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 216,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 16649057,
+                    "name": "哆啦不懂A梦的忧伤",
+                    "face": "http://i2.hdslb.com/bfs/face/f7b4eff292c34e264f29543d4e3bc2ef8fee3654.jpg"
+                },
+                "stat": {
+                    "aid": 15615766,
+                    "view": 77876,
+                    "danmaku": 190,
+                    "reply": 82,
+                    "favorite": 4113,
+                    "coin": 221,
+                    "share": 93,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 86
+                }
+            },
+            {
+                "aid": 2691295,
+                "videos": 2,
+                "tid": 20,
+                "tname": "宅舞",
+                "copyright": 2,
+                "pic": "http://i0.hdslb.com/bfs/archive/d8594a7aa67ed2510be5aea81420bdd2ba7772b5.jpg",
+                "title": "【ぽんた】干物妹！小埋OP【原创振付】",
+                "pubdate": 1438853084,
+                "ctime": 1497429168,
+                "desc": "https://youtu.be/01dwYZGZs98 新作╮(￣▽￣)╭ \r\nオリジナルダンスで土間うまる（田中あいみ）の『かくしん的☆めたまるふぉ～ぜっ！』­という曲を踊ってみました。\r\n\r\nアメーバブログ\r\nhttp://profile.ameba.jp/753ponta264020/\r\nフェイスブック\r\nhttps://www.facebook.com/profile.php?...\r\nツイッター\r\nhttps://twitter.com/dance07ponta01 ",
+                "state": 0,
+                "attribute": 32768,
+                "tags": null,
+                "duration": 206,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 5609984,
+                    "name": "momodie",
+                    "face": "http://i2.hdslb.com/bfs/face/fb8ef234daac1c2cab914da31c357729157af825.jpg"
+                },
+                "stat": {
+                    "aid": 2691295,
+                    "view": 418434,
+                    "danmaku": 2873,
+                    "reply": 634,
+                    "favorite": 15394,
+                    "coin": 4080,
+                    "share": 1862,
+                    "now_rank": 0,
+                    "his_rank": 34,
+                    "like": 16
+                }
+            },
+            {
+                "aid": 47381,
+                "videos": 1,
+                "tid": 154,
+                "tname": "三次元舞蹈",
+                "copyright": 2,
+                "pic": "http://i2.hdslb.com/bfs/archive/bf950ba00a1c01e11a238f2e6a12cd575caf8f1d.jpg",
+                "title": "迈克尔杰克逊演唱会-最强之舞",
+                "pubdate": 1294120196,
+                "ctime": 1497357433,
+                "desc": "优酷 MJ~",
+                "state": 0,
+                "attribute": 32768,
+                "tags": null,
+                "duration": 704,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 28976,
+                    "name": "demoplay",
+                    "face": "http://i0.hdslb.com/bfs/face/8bfad23814e07179cb89e0564dfcc99320e3ffca.gif"
+                },
+                "stat": {
+                    "aid": 47381,
+                    "view": 676627,
+                    "danmaku": 18481,
+                    "reply": 1542,
+                    "favorite": 18516,
+                    "coin": 4268,
+                    "share": 1424,
+                    "now_rank": 0,
+                    "his_rank": 111,
+                    "like": 128
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

@@ -1,0 +1,182 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 95
+        },
+        "archives": [
+            {
+                "aid": 16331082,
+                "videos": 1,
+                "tid": 183,
+                "tname": "影视剪辑",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/9d0f41523adc0a8a9f42573ad03eee7822ba62cc.jpg",
+                "title": "【林峰X佘诗曼/皇太极X尔淳】爱有尽时，恨无绝期",
+                "pubdate": 1510666458,
+                "ctime": 1510666458,
+                "desc": "突然的脑洞，剧情自行领会233",
+                "state": 0,
+                "attribute": 49280,
+                "tags": null,
+                "duration": 121,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 1
+                },
+                "owner": {
+                    "mid": 24648736,
+                    "name": "七爷家的小天",
+                    "face": "http://i2.hdslb.com/bfs/face/667315b1749ebaa1fedf3e9fd2eee485a5908bcc.jpg"
+                },
+                "stat": {
+                    "aid": 16331082,
+                    "view": 1672,
+                    "danmaku": 45,
+                    "reply": 25,
+                    "favorite": 52,
+                    "coin": 17,
+                    "share": 3,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 7
+                }
+            },
+            {
+                "aid": 16343259,
+                "videos": 1,
+                "tid": 182,
+                "tname": "影视杂谈",
+                "copyright": 1,
+                "pic": "http://i1.hdslb.com/bfs/archive/f8113830a43baf1066b4c6f337dd137848540551.jpg",
+                "title": "俗哥说电影，香港犯罪片《杀破狼贪狼》",
+                "pubdate": 1510716625,
+                "ctime": 1510716625,
+                "desc": "欢迎关注俗哥微信公众号suge2004或俗哥看电影，获取第一时间更新",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 453,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 25416280,
+                    "name": "俗哥看电影",
+                    "face": "http://i2.hdslb.com/bfs/face/4a1c3605271e3e356833cdc49069dc408b431b7c.jpg"
+                },
+                "stat": {
+                    "aid": 16343259,
+                    "view": 745,
+                    "danmaku": 7,
+                    "reply": 30,
+                    "favorite": 3,
+                    "coin": 4,
+                    "share": 0,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 2
+                }
+            },
+            {
+                "aid": 16331898,
+                "videos": 1,
+                "tid": 182,
+                "tname": "影视杂谈",
+                "copyright": 1,
+                "pic": "http://i0.hdslb.com/bfs/archive/4ad925e731760549c9647bc0538514d342997a8a.jpg",
+                "title": "【熊猫】3分钟看完韩国复仇电影《圣殇》，母爱的定",
+                "pubdate": 1510668235,
+                "ctime": 1510668235,
+                "desc": "微信公众号：小熊猫看电影。",
+                "state": 0,
+                "attribute": 49280,
+                "tags": null,
+                "duration": 187,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 1
+                },
+                "owner": {
+                    "mid": 230202918,
+                    "name": "小熊猫电影",
+                    "face": "http://i1.hdslb.com/bfs/face/0ce168e5cf98c68cc678325d11bc6bf4da9ed78d.jpg"
+                },
+                "stat": {
+                    "aid": 16331898,
+                    "view": 3213,
+                    "danmaku": 7,
+                    "reply": 30,
+                    "favorite": 29,
+                    "coin": 29,
+                    "share": 5,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 9
+                }
+            },
+            {
+                "aid": 15235105,
+                "videos": 1,
+                "tid": 182,
+                "tname": "影视杂谈",
+                "copyright": 1,
+                "pic": "http://i1.hdslb.com/bfs/archive/98d8cfe07cf4177e8560e8ac01201e306d15b043.jpg",
+                "title": "【钢铁侠】如果给钢铁侠换个BGM打开会怎样？",
+                "pubdate": 1507519014,
+                "ctime": 1507519017,
+                "desc": "这是钢铁侠变身的正确打开方式，来自一枚妮妮铁粉的混剪哈哈哈，剪完觉得挺满意的，发到B站和各位分享。微博@陈狗蛋的英雄梦",
+                "state": 0,
+                "attribute": 49280,
+                "tags": null,
+                "duration": 167,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 1
+                },
+                "owner": {
+                    "mid": 175898210,
+                    "name": "陈狗蛋的英雄梦",
+                    "face": "http://i0.hdslb.com/bfs/face/5bb022806de90cd730c9ce5fcd68cd1ffae92b0c.jpg"
+                },
+                "stat": {
+                    "aid": 15235105,
+                    "view": 378087,
+                    "danmaku": 2743,
+                    "reply": 382,
+                    "favorite": 9115,
+                    "coin": 11547,
+                    "share": 3224,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 1047
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

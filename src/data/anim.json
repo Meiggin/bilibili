@@ -1,0 +1,184 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 91
+        },
+        "archives": [
+            {
+                "aid": 974535,
+                "videos": 1,
+                "tid": 33,
+                "tname": "连载动画",
+                "copyright": 2,
+                "pic": "http://i0.hdslb.com/bfs/archive/13e22f1788e4424b14a66b39b9eca80a51d549bb.jpg",
+                "title": "【1月】 中二病也要谈恋爱！恋 07",
+                "pubdate": 1392863851,
+                "ctime": 1497423802,
+                "desc": "(｀・ω・´)(^・ω・^ )",
+                "state": 0,
+                "attribute": 51200,
+                "tags": null,
+                "duration": 1428,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 381335,
+                    "name": "LOLI根本把持不住",
+                    "face": "http://i0.hdslb.com/bfs/face/135743fd71408034a5701d7ef9cab7c810a45e77.jpg"
+                },
+                "stat": {
+                    "aid": 974535,
+                    "view": 1441325,
+                    "danmaku": 61370,
+                    "reply": 1665,
+                    "favorite": 703,
+                    "coin": 1764,
+                    "share": 270,
+                    "now_rank": 0,
+                    "his_rank": 3,
+                    "like": 1
+                }
+            },
+            {
+                "aid": 16324078,
+                "videos": 1,
+                "tid": 33,
+                "tname": "连载动画",
+                "copyright": 2,
+                "pic": "http://i1.hdslb.com/bfs/archive/94fd236ce81f85818724ebc1cfe45a631710450b.jpg",
+                "title": "【10月】黑色四叶草 07",
+                "pubdate": 1510655100,
+                "ctime": 1510652130,
+                "desc": "#07",
+                "state": 0,
+                "attribute": 100640,
+                "tags": null,
+                "duration": 1434,
+                "redirect_url": "http://bangumi.bilibili.com/anime/6422/play#114972",
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 1,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 21453565,
+                    "name": "TV-TOKYO",
+                    "face": "http://i2.hdslb.com/bfs/face/69ef6861067d6ef637b7c73b77d71c3414996745.jpg"
+                },
+                "stat": {
+                    "aid": 16324078,
+                    "view": 103026,
+                    "danmaku": 3100,
+                    "reply": 619,
+                    "favorite": 18,
+                    "coin": 398,
+                    "share": 60,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 7
+                }
+            },
+            {
+                "aid": 32195,
+                "videos": 26,
+                "tid": 32,
+                "tname": "完结动画",
+                "copyright": 2,
+                "pic": "http://i1.hdslb.com/bfs/archive/2a57654e958d079e4e4d29983ee15e6b6b5c6a63.jpg",
+                "title": "【悲剧的循环】寒蝉鸣泣之时1-26全",
+                "pubdate": 1287554364,
+                "ctime": 1497372706,
+                "desc": "新浪 和式稍高能番 各种萌来各种黑 蝉在叫 人坏掉 有问题请pm或留言",
+                "state": 0,
+                "attribute": 38912,
+                "tags": null,
+                "duration": 37040,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 87654,
+                    "name": "西瓜⑨",
+                    "face": "http://i0.hdslb.com/bfs/face/151333ae2386561b111ba27a07096340c9f783e7.jpg"
+                },
+                "stat": {
+                    "aid": 32195,
+                    "view": 3769395,
+                    "danmaku": 370236,
+                    "reply": 17537,
+                    "favorite": 30117,
+                    "coin": 5957,
+                    "share": 7943,
+                    "now_rank": 0,
+                    "his_rank": 318,
+                    "like": 17
+                }
+            },
+           
+            {
+                "aid": 9942165,
+                "videos": 1,
+                "tid": 33,
+                "tname": "连载动画",
+                "copyright": 2,
+                "pic": "http://i2.hdslb.com/bfs/archive/baf21ad7cedf355130ec797fb569f90f4353115d.jpg",
+                "title": "【OAD】干物妹！小埋 14 【喵萌奶茶屋】",
+                "pubdate": 1492571632,
+                "ctime": 1497425061,
+                "desc": "喂 哥老关 五马路的秘密是什么~~诶嘿~ 稍后更新720P 修改了错误",
+                "state": 0,
+                "attribute": 51200,
+                "tags": null,
+                "duration": 1426,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 813355,
+                    "name": "八云境界",
+                    "face": "http://i1.hdslb.com/bfs/face/419c02508755532d8522b9309b28bd88b2a6f1de.jpg"
+                },
+                "stat": {
+                    "aid": 9942165,
+                    "view": 1620035,
+                    "danmaku": 4377,
+                    "reply": 2982,
+                    "favorite": 3520,
+                    "coin": 8492,
+                    "share": 2155,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 11
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

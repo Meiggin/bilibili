@@ -1,0 +1,182 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 96
+        },
+        "archives": [
+            {
+                "aid": 11272551,
+                "videos": 1,
+                "tid": 27,
+                "tname": "综合",
+                "copyright": 2,
+                "pic": "http://i1.hdslb.com/bfs/archive/4cad8230bd7703d6c5e6f39b2014e1497043646c.jpg",
+                "title": "犬夜叉现代篇里几个有趣的场景【part1】",
+                "pubdate": 1497258148,
+                "ctime": 1497353472,
+                "desc": "出处在左下角，出处在左下角，出处在每段cut开头的左下角！！！！\n下次投稿就不知道是什么时候了呢~",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 629,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 2392547,
+                    "name": "御坂10990号",
+                    "face": "http://i1.hdslb.com/bfs/face/8a229f800eb16f53f82194e297c6b97a74e6df2b.jpg"
+                },
+                "stat": {
+                    "aid": 11272551,
+                    "view": 147399,
+                    "danmaku": 2218,
+                    "reply": 827,
+                    "favorite": 5065,
+                    "coin": 1238,
+                    "share": 549,
+                    "now_rank": 0,
+                    "his_rank": 64,
+                    "like": 16
+                }
+            },
+            {
+                "aid": 2721989,
+                "videos": 1,
+                "tid": 27,
+                "tname": "综合",
+                "copyright": 1,
+                "pic": "http://i1.hdslb.com/bfs/archive/5eab42df77909f46f294e822cb9975a3359adcbb.jpg",
+                "title": "【非焦点访谈】EP2 对话LexBurner",
+                "pubdate": 1439335495,
+                "ctime": 1497424848,
+                "desc": "自制 感谢帮我码字幕文稿的阴影酱和普酱，顺便一说视频没有杂音，那是River flows in you这首BGM里的雨声--------------------------     本段子手的微博为http://weibo.com/fla5hbong @瓶子君152 请各位踊跃关注咯",
+                "state": 0,
+                "attribute": 32768,
+                "tags": null,
+                "duration": 2708,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 730732,
+                    "name": "瓶子君152",
+                    "face": "http://i0.hdslb.com/bfs/face/e936afe13e799861e531a56497b0f01e7d33f161.jpg"
+                },
+                "stat": {
+                    "aid": 2721989,
+                    "view": 672807,
+                    "danmaku": 58581,
+                    "reply": 4052,
+                    "favorite": 10331,
+                    "coin": 10536,
+                    "share": 441,
+                    "now_rank": 0,
+                    "his_rank": 10,
+                    "like": 72
+                }
+            },
+            {
+                "aid": 16306639,
+                "videos": 1,
+                "tid": 24,
+                "tname": "MAD·AMV",
+                "copyright": 1,
+                "pic": "http://i0.hdslb.com/bfs/archive/ebf90ba185964b8f6a95d969fa5c10d37d0f8134.jpg",
+                "title": "【AMV/燃向/我的英雄学院】我们的英雄之路 ！！",
+                "pubdate": 1510592446,
+                "ctime": 1510592446,
+                "desc": "简介: 我的英雄学院一二季高燃混剪\nこれは、僕が最高のヒロになるまでの物語だ！！\n\n第一次做AMV，请多多指教\n使用素材: 我的英雄学院一二季",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 214,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 28071136,
+                    "name": "YIKU制作",
+                    "face": "http://i0.hdslb.com/bfs/face/2feaedd7093f747eeb7225bee402fcd811146e46.jpg"
+                },
+                "stat": {
+                    "aid": 16306639,
+                    "view": 654,
+                    "danmaku": 62,
+                    "reply": 7,
+                    "favorite": 29,
+                    "coin": 16,
+                    "share": 3,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 11
+                }
+            },
+            {
+                "aid": 9219104,
+                "videos": 2,
+                "tid": 27,
+                "tname": "综合",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/8ca0d95277b16f7870a3415651c18dd5d798bbc8.jpg",
+                "title": "jojo的奇妙冒险：不灭钻石  3部op合集",
+                "pubdate": 1489751220,
+                "ctime": 1497429212,
+                "desc": "jojo第四季不灭钻石有3个制作精良风格迥异的op，做个合集大家喜欢的话收藏起来吧\nP2为第三个OP官方倒放版本",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 308,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 5689437,
+                    "name": "CJSY",
+                    "face": "http://i1.hdslb.com/bfs/face/a2cca72168c8e15e665d20b602af85f84b52eb2b.jpg"
+                },
+                "stat": {
+                    "aid": 9219104,
+                    "view": 5789,
+                    "danmaku": 144,
+                    "reply": 57,
+                    "favorite": 105,
+                    "coin": 101,
+                    "share": 11,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 0
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

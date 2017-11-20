@@ -1,0 +1,182 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 96
+        },
+        "archives": [
+            {
+                "aid": 9944629,
+                "videos": 1,
+                "tid": 166,
+                "tname": "广告",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/4a2bda9885b91cd0bfea74a67b20507a7968ca2c.jpg",
+                "title": "女生第一次都是这样吧？",
+                "pubdate": 1492583478,
+                "ctime": 1497437159,
+                "desc": "额，第一个视频。",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 9,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 42501095,
+                    "name": "ALEX-MOSE",
+                    "face": "http://i1.hdslb.com/bfs/face/47598aac97fd5b5780cf3696bd238fc0c563f13c.jpg"
+                },
+                "stat": {
+                    "aid": 9944629,
+                    "view": 37768,
+                    "danmaku": 17,
+                    "reply": 38,
+                    "favorite": 179,
+                    "coin": 15,
+                    "share": 69,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 19
+                }
+            },
+            {
+                "aid": 9488454,
+                "videos": 1,
+                "tid": 166,
+                "tname": "广告",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/30013630d79fc0aeaddc1017cb1145a517edf3ae.jpg",
+                "title": "【刘诗诗最美的广告】唯一一次在镜头前跳芭蕾，比结婚还美的我的小姐姐！",
+                "pubdate": 1490867702,
+                "ctime": 1497438329,
+                "desc": "唯一一次在镜头前跳芭蕾，比结婚还美的我的小姐姐！\n像天使一样了吧",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 32,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 98558833,
+                    "name": "叫我倩妹啊",
+                    "face": "http://i0.hdslb.com/bfs/face/5cf02ccace0c600951a12e7932f0c9f95e2637fd.jpg"
+                },
+                "stat": {
+                    "aid": 9488454,
+                    "view": 50966,
+                    "danmaku": 114,
+                    "reply": 111,
+                    "favorite": 1012,
+                    "coin": 192,
+                    "share": 93,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 31
+                }
+            },
+            {
+                "aid": 16287915,
+                "videos": 1,
+                "tid": 166,
+                "tname": "广告",
+                "copyright": 2,
+                "pic": "http://i0.hdslb.com/bfs/archive/be7883605eaeb0579af54c144232ed9d08b4ab07.png",
+                "title": "【费启鸣】麻麻，我们想要这样的蓝朋友 ~",
+                "pubdate": 1510554443,
+                "ctime": 1510554443,
+                "desc": "微博\n什么都是假的，但爱你是真的~\r\n\r\n喜欢你上扬的嘴角~很甜的微笑~\r\n\r\n喜欢和你一起的时光~\r\n\r\n可你在哪~emmmmm\r\n\r\n微博看的有点晚~狒狒这个视频看其他小主发过了\r\n\r\n不过还是想再分享一下~",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 229,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 47680745,
+                    "name": "叫我樱桃大大",
+                    "face": "http://i0.hdslb.com/bfs/face/1af8e3ac811c254de988c56ee41003cb856bb3c7.jpg"
+                },
+                "stat": {
+                    "aid": 16287915,
+                    "view": 17715,
+                    "danmaku": 96,
+                    "reply": 70,
+                    "favorite": 763,
+                    "coin": 64,
+                    "share": 301,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 60
+                }
+            },
+            {
+                "aid": 16287899,
+                "videos": 1,
+                "tid": 166,
+                "tname": "广告",
+                "copyright": 2,
+                "pic": "http://i1.hdslb.com/bfs/archive/1c450c2da36e4e0f65afa0ac2ba5051146a2e22b.jpg",
+                "title": "双11收包裹神曲，来和我一起左手右手一个慢动作哈哈",
+                "pubdate": 1510549326,
+                "ctime": 1510549326,
+                "desc": "菜鸟驿站\n别人唱歌要钱，他们唱歌要命",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 182,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 212230,
+                    "name": "八尾妖姬",
+                    "face": "http://i0.hdslb.com/bfs/face/b39356ad1e69ce1039730d613ec983f0819c0ac7.jpg"
+                },
+                "stat": {
+                    "aid": 16287899,
+                    "view": 7760,
+                    "danmaku": 57,
+                    "reply": 74,
+                    "favorite": 44,
+                    "coin": 41,
+                    "share": 32,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 13
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}

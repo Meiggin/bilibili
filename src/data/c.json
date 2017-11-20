@@ -1,0 +1,184 @@
+{
+    "code": 0,
+    "data": {
+        "page": {
+            "num": 1,
+            "size": 5,
+            "count": 90
+        },
+        "archives": [
+            {
+                "aid": 16272984,
+                "videos": 1,
+                "tid": 28,
+                "tname": "原创音乐",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/b26e5caefa80729041b545e6287529f8c40e7976.jpg",
+                "title": "【KBShinya＆哦漏】暗恋是一种双层味道",
+                "pubdate": 1510502416,
+                "ctime": 1510496642,
+                "desc": "作曲：哦漏\n作词：红衣＆哦漏\n演唱：KBShinya＆哦漏\n后期：冷面\n曲绘：森夏\n视频：八久铃\n网易云：http://music.163.com/#/song?id=518519216\n为肯德基的花生霸王双层堡写的歌！由我和KB分别扮演女生心里的两个小人，一个主动一个害羞，就像甜甜辣辣的花生霸王双层堡233第一次自己联系了大佬们合作，感觉很开心，而且在过程中也得到了很多历练233希望大家喜欢这首有点甜的歌~",
+                "state": 0,
+                "attribute": 49152,
+                "tags": null,
+                "duration": 201,
+                "order_id": 439,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 1951038,
+                    "name": "哦漏QAQ",
+                    "face": "http://i0.hdslb.com/bfs/face/eeb1482e13d915fce15cda71b2d0c8a76d706fd2.jpg"
+                },
+                "stat": {
+                    "aid": 16272984,
+                    "view": 52612,
+                    "danmaku": 1293,
+                    "reply": 2119,
+                    "favorite": 3765,
+                    "coin": 5603,
+                    "share": 504,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 1473
+                }
+            },
+            {
+                "aid": 16307481,
+                "videos": 1,
+                "tid": 30,
+                "tname": "VOCALOID·UTAU",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/dbdc971d404206cebbe6b5846a4db46648ea0c67.png",
+                "title": "【初音ミク】片翼之鸟（别拿原唱骗我！）",
+                "pubdate": 1510661135,
+                "ctime": 1510595386,
+                "desc": "调教/人声混音：花儿不哭；\n作词：波乃步；\n作曲/编曲/原唱：志方あきこ；\nTV动画「海猫鸣泣之时」片头曲；\n翻唱：初音ミク；\nMAD·PV来自：av2299753；\n友情链接：\n越南大叔调教版：av238129；\n佐藤莎莎拉版：av618636；\ncillia调教版：sm10684747；\n某人的黑历史：av3288788；\n高音质下载地址在评论区找。",
+                "state": 0,
+                "attribute": 49280,
+                "tags": null,
+                "duration": 278,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 1
+                },
+                "owner": {
+                    "mid": 5760446,
+                    "name": "花儿不哭",
+                    "face": "http://i2.hdslb.com/bfs/face/83213fdd1a95851557cb730d09a3c76ad560d262.jpg"
+                },
+                "stat": {
+                    "aid": 16307481,
+                    "view": 1616,
+                    "danmaku": 22,
+                    "reply": 88,
+                    "favorite": 562,
+                    "coin": 210,
+                    "share": 16,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 65
+                }
+            },
+            {
+                "aid": 9303197,
+                "videos": 1,
+                "tid": 30,
+                "tname": "VOCALOID·UTAU",
+                "copyright": 1,
+                "pic": "http://i2.hdslb.com/bfs/archive/3e9d27bece0d0154abda95abcdfdd5521dca4bb6.jpg",
+                "title": "【南北组毕业季】想起你，在英语考试最后三分钟里",
+                "pubdate": 1490086768,
+                "ctime": 1497433741,
+                "desc": "在考试的最后三分钟，想起与你相伴的三年。\n《三分三年》，献给我们无悔的青葱岁月。\n\n唱见版本：av11194060\n★词曲 Suco ★编曲 Luca ★混音 程序狒狒 ★曲绘 豆芽兔 ★视频 竹间 ★和片头的萌萌哒雪绘~",
+                "state": 0,
+                "attribute": 32768,
+                "tags": null,
+                "duration": 296,
+                "mission_id": 10054,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 0
+                },
+                "owner": {
+                    "mid": 17599084,
+                    "name": "皮卡音乐",
+                    "face": "http://i0.hdslb.com/bfs/face/1696b660c73fec1586a23ed2ab2a3c40245524fd.jpg"
+                },
+                "stat": {
+                    "aid": 9303197,
+                    "view": 17797,
+                    "danmaku": 700,
+                    "reply": 404,
+                    "favorite": 2870,
+                    "coin": 1337,
+                    "share": 416,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 17
+                }
+            },
+            {
+                "aid": 16120860,
+                "videos": 1,
+                "tid": 29,
+                "tname": "三次元音乐",
+                "copyright": 1,
+                "pic": "http://i1.hdslb.com/bfs/archive/589662e6d9373ebb577faf0900d1bc8af446bf1c.jpg",
+                "title": "红昭愿~~中国风",
+                "pubdate": 1510077362,
+                "ctime": 1510077362,
+                "desc": "作品类型: 古风\n曲名: 红昭愿\n简介补充:     初投稿，做的比较仓促，望大家喜欢(๑‾ ꇴ ‾๑)\n原素材取自up一夜被风吹",
+                "state": 0,
+                "attribute": 49280,
+                "tags": null,
+                "duration": 188,
+                "rights": {
+                    "bp": 0,
+                    "elec": 0,
+                    "download": 0,
+                    "movie": 0,
+                    "pay": 0,
+                    "hd5": 0,
+                    "no_reprint": 1
+                },
+                "owner": {
+                    "mid": 10402796,
+                    "name": "Takashi夏目",
+                    "face": "http://i0.hdslb.com/bfs/face/35129388e95155e66f255dae1a16a9ca5b8689b8.jpg"
+                },
+                "stat": {
+                    "aid": 16120860,
+                    "view": 7025,
+                    "danmaku": 45,
+                    "reply": 30,
+                    "favorite": 376,
+                    "coin": 101,
+                    "share": 42,
+                    "now_rank": 0,
+                    "his_rank": 0,
+                    "like": 56
+                }
+            }
+        ]
+    },
+    "message": "0",
+    "ttl": 1
+}
